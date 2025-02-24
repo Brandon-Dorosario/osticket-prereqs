@@ -61,3 +61,8 @@ Open IIS as an Admin , Register PHP from within IIS (PHP Manager -> C:\PHP\php-c
 <p>  
 
 ![osTicketinstalled](https://github.com/user-attachments/assets/5a4a13c9-8764-49bf-95b5-24503b7d0e1c)
+
+</p>
+<p>
+Installation completed.
+
